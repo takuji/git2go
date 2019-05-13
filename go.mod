@@ -1,1 +1,1 @@
-module github.com/libgit2/git2go
+module github.com/takuji/git2go
